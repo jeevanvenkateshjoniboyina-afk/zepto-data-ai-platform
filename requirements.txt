@@ -7,3 +7,10 @@ requests
 beautifulsoup4
 joblib
 imbalanced-learn
+fastapi
+uvicorn
+langgraph
+langchain
+chromadb
+sentence-transformers
+pydantic
