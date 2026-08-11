@@ -1,5 +1,6 @@
 # Virtual Environment
 .venv/
+venv/
 
 # Python Cache
 __pycache__/
@@ -10,3 +11,10 @@ __pycache__/
 
 # VS Code User Settings
 .vscode/settings.json
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
