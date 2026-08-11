@@ -33,7 +33,7 @@ TOTAL_PAGES = 5
 
 GBP_TO_INR = 105.50
 
-OUTPUT_FILE = "books.csv"
+OUTPUT_FILE = "data_pipeline/books.csv"
 def fetch_page(url):
     """
     Downloads a webpage and returns a BeautifulSoup object.
